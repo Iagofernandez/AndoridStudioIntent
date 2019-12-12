@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="button">Button</string>
+    <string name="rojo">Rojo</string>
+    <string name="suma">Suma</string>
+    <string name="url_google">URL Google</string>
+    <string name="url_de_pagina_google">URL de pagina Google</string>
+</resources>
